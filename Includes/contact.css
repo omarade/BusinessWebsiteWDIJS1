@@ -1,0 +1,85 @@
+.my-jumbo{
+	height: 80px ;
+	padding-top: 10px ;
+	width: 100% ;
+	background-color: lightblue ;
+}
+
+.form-input{
+    width: 100% !important ;
+	border: none ;
+	border-bottom: grey 1px solid ; 
+    border-bottom-left-radius: 5px ;
+    border-bottom-right-radius: 5px ;
+    height: 100% !important ;
+}
+
+.text{
+	width: 100% ;
+	border: grey 1px solid ; 
+    border-radius: 4px ;
+    height: 205px !important ;
+
+}
+
+
+
+.myselecter{
+	width: 100% ;
+	border: none ;
+	border-bottom: grey 1px solid ; 
+    border-bottom-left-radius: 5px ;
+    border-bottom-right-radius: 5px ;
+
+}
+.my-button{
+	font-size: 20px ;
+}
+
+
+
+.well-1{
+	border-radius: 2px ;
+	padding-left: 7px ;
+	color: black ;
+	height: 30px ;
+	padding-top: 0px ;
+	padding-bottom: 15px ;
+}
+
+.well-2{
+	border-radius: 6px ;
+	padding: 3px 20px 5px 20px ;
+	text-align: left ;
+	background-color:  grey ;  
+	color: black ;
+}
+
+
+
+.subs-button {
+  	margin-top: 10px ;
+  	font-size: 20px ;
+	margin: 20px 200px 20px 200px ;
+}
+
+
+iframe{
+	height: 80% !important ;
+}
+
+.well-3{
+	border-radius: 2px ;
+	text-align: left ;
+	height: 30px ;
+	padding-top: 5px ;
+	padding-bottom: 15px ;
+}
+
+.newsletter{
+	color: blue ;
+}
+
+.letter-map{
+	margin-top: 15px ;
+}
